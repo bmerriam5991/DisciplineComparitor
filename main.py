@@ -1,4 +1,5 @@
 import csv
+import tkinter
 #stored in the array sections, holds name of stream and courses in stream
 class section:
     def __init__(self, Name,courseList):
@@ -38,15 +39,34 @@ for i in range(20):
     f.seek(0)
     column1.clear()
     for row in PlanData:
-        if  row[i]:
-            column1.append(row[i])
+        if  row[i-1]:
+            column1.append(row[i-1])
     #deletes stream name from course listings--------------------------
     column1=column1[1:]
     sections.append(section(streamName[i],column1))
-    print(sections[i].courses)
-    print("\n")
+    #print(sections[i].courses)
+    f.seek(0)
     #weird stuff happens here, they are all shifted up one
-print(sections[0].courses)
+column1.clear()
+for row in PlanData:
+    if  row[19]:
+        #print(row[19])
+        column1.append(row[19])
+#deletes stream name from course listings--------------------------
+sections[19].courses=column1
+f.seek(0)
+for i in range(20):
+
+    if len(sections[i].courses[0]) >10:
+        sections[i].courses=sections[i].courses[1:]
+#print(sections[0].courses)
+# top=tkinter.Tk()
+# def helloCallBack():
+#     tkMessageBox.showinfo("Hello Python", "Hello")
+# B=tkinter.Button(top, text="Hello", command=helloCallBack)
+# B.pack()
+#
+# top.mainloop()
 #----------infinite loop to request values to check---------------------------
 #current bug: sections[0] is equal to sections[19] and i don't know why
 while 1:
@@ -54,12 +74,12 @@ while 1:
     #accept values for value1 and value2 from user (bug might be here)
         value1=int(input('Value 1: '),10)
         value2=int(input('Value 2: '))
+        # value2=int(input('Value 2: '))
     except ValueError:
         print ("not a number!")
-    print(sections[value1].name + " and " + sections[value2].name)
-    # print(sections[value1].courses)
-    # print(sections[value2].courses)
-    # print("\n")
+    print(sections[value1].name," and ", sections[value2].name)
 
+
+    # print(sections[value2].courses)
     #temporary fix, only breaks if value 1 is equal to 0 then it goes to 19
-    print(intersect(value1-1,value2-1,sections))
+    print(intersect(value1,value2,sections))
