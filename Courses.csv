@@ -1,0 +1,1552 @@
+CourseCode,CourseName
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+MTHE 217,Algebraic Structures with Applications
+MTHE 237,Differential Equations and Computer Methods
+MTHE 280,Advanced Calculus
+MTHE 281,Introduction to Real Analysis
+MTHE 212,Linear Algebra
+MTHE 326,Functions of a Complex Variable
+MTHE 332,Introduction to Control
+MTHE 334,Mathematical Methods for Engineering and Physics
+MTHE 335,Mathematics of Engineering Systems
+MTHE 393,Engineering Design and Practice for Mathematics and Engineering
+APSC 221,Economics and Business Practices in Engineering
+MTHE 494,Mathematics and Engineering Seminar
+MTHE 493,Engineering Mathematics Project
+ELEC 221,Electric Circuits
+ELEC 271,Digital Systems
+ELEC 293,Electrical and Computer Engineering Laboratory I
+ENPH 225,Mechanics
+ELEC 252,Electronics I
+ELEC 274,Computer Architecture
+ELEC 294,Electrical and Computer Engineering Laboratory II
+MTHE 351,Probability I
+ELEC 278,Fundamentals of Information Structures
+ELEC 371,Microprocessor Interfacing and Embedded Systems
+ENPH 239,Electricity and Magnetism
+MTHE 353,Probability II
+MTHE 430,Modern Control Theory
+MTHE 472,Control of Stochastic Systems
+MTHE 474,Information Theory
+MTHE 406,Introduction to Coding Theory
+MTHE 434,Optimization Theory and Application
+MTHE 439,"Lagrangian Mechanics, Dynamics, and Control"
+MTHE 477,Data Compression and Source Coding
+MTHE 478,Topics in Communication Theory
+MTHE 484,Data Networks
+MTHE 454,Statistical Spectrum Estimation
+MTHE 455,Stochastic Processes and Applications
+ELEC 353,Electronics II
+ELEC 421,Digital Signal Processing: Filters and System Design
+ELEC 431,Power Electronics
+ELEC 448,Introduction to Robotics: Mechanics and Control
+MECH 456,Introduction to Robotics
+ELEC 454,Analog Electronics
+ELEC 457,Integrated Circuits and System Applications
+ELEC 461,Digital Communications
+ELEC 464,Wireless Communications
+ELEC 483,Microwave and RF Circuits and Systems
+ELEC 486,Fiber Optic Communications
+MECH 452,Mechatronics Engineering
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+MTHE 217,Algebraic Structures with Applications
+MTHE 237,Differential Equations and Computer Methods
+MTHE 280,Advanced Calculus
+MTHE 281,Introduction to Real Analysis
+MTHE 212,Linear Algebra
+MTHE 326,Functions of a Complex Variable
+MTHE 332,Introduction to Control
+MTHE 334,Mathematical Methods for Engineering and Physics
+MTHE 335,Mathematics of Engineering Systems
+MTHE 393,Engineering Design and Practice for Mathematics and Engineering
+APSC 221,Economics and Business Practices in Engineering
+MTHE 494,Mathematics and Engineering Seminar
+MTHE 493,Engineering Mathematics Project
+ELEC 221,Electric Circuits
+ELEC 271,Digital Systems
+ELEC 293,Electrical and Computer Engineering Laboratory I
+ELEC 252,Electronics I
+ELEC 274,Computer Architecture
+ELEC 294,Electrical and Computer Engineering Laboratory II
+ENPH 239,Electricity and Magnetism
+ELEC 278,Fundamentals of Information Structures
+ELEC 371,Microprocessor Interfacing and Embedded Systems
+MTHE 351,Probability I
+CMPE 212,Introduction to Computing Science II
+MTHE 353,Probability II
+MTHE 474,Information Theory
+MTHE 455,Stochastic Processes and Applications
+CMPE 365,Algorithms I
+MTHE 477,Data Compression and Source Coding
+MTHE 406,Introduction to Coding Theory
+MTHE 418,Number Theory and Cryptography
+MTHE 430,Modern Control Theory
+MTHE 434,Optimization Theory and Application
+MTHE 472,Control of Stochastic Systems
+MTHE 478,Topics in Communication Theory
+MTHE 484,Data Networks
+MTHE 454,Statistical Spectrum Estimation
+CMPE 332,Database Management Systems
+CMPE 333,Introduction to Data Mining
+CMPE 434,Distributed Systems
+CMPE 454,Computer Graphics
+CMPE 457,Image Processing and Computer Vision
+ELEC 374,Digital Systems Engineering
+ELEC 377,Operating Systems
+ELEC 421,Digital Signal Processing: Filters and System Design
+ELEC 422,Digital Signal Processing: Random Models and Applications
+ELEC 461,Digital Communications
+ELEC 464,Wireless Communications
+ELEC 470,Computer System Architecture
+ELEC 471,Computer Networks I
+ELEC 476,Modelling and Systems Simulation
+ELEC 478,Computer Networks II
+SOFT 437,Performance Analysis
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+MTHE 217,Algebraic Structures with Applications
+MTHE 237,Differential Equations and Computer Methods
+MTHE 280,Advanced Calculus
+MTHE 281,Introduction to Real Analysis
+MTHE 212,Linear Algebra
+MTHE 326,Functions of a Complex Variable
+MTHE 332,Introduction to Control
+MTHE 334,Mathematical Methods for Engineering and Physics
+MTHE 335,Mathematics of Engineering Systems
+MTHE 393,Engineering Design and Practice for Mathematics and Engineering
+APSC 221,Economics and Business Practices in Engineering
+MTHE 494,Mathematics and Engineering Seminar
+MTHE 493,Engineering Mathematics Project
+CIVL 220,Statics and Solid Mechanics
+MECH 230,Thermodynamics I
+ENPH 252,Management of Experimental Data
+ELEC 210,Introductory Electric Circuits and Machines
+MECH 228,Kinematics and Dynamics
+MECH 241,Fluid Mechanics I
+MECH 321,Solid Mechanics II
+MECH 328,Dynamics and Vibration
+MECH 330,Applied Thermodynamics II
+MECH 398,Mechanical Engineering Laboratory I
+MECH 323,Machine Design
+MECH 341,Fluid Mechanics II
+MECH 399,Mechanical Engineering Laboratory II
+MTHE 430,Modern Control Theory
+MTHE 351,Probability I
+MTHE�439,"Lagrangian Mechanics, Dynamics, and Control"
+MTHE 353,Probability II
+MTHE 406,Introduction to Coding Theory
+MTHE 418,Number Theory and Cryptography
+MTHE 434,Optimization Theory and Application
+MTHE 472,Control of Stochastic Systems
+MECH 346,Heat Transfer
+MECH 420,Vibrations
+MECH 424,Sustainable Product Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+MECH 441,Fluid Mechanics III
+MECH 444,Computational Fluid Dynamics
+MECH 448,Compressible Fluid Flow
+MECH 452,Mechatronics Engineering
+MECH 455,Computer Integrated Manufacturing
+MECH 456,Introduction to Robotics
+ELEC 448,Introduction to Robotics:� Mechanics and Control
+MECH 465,Computer-Aided Design
+MECH 480,Airplane Aerodynamics and Performance
+MECH 482,Noise Control
+MECH 492,Biofluids
+MECH 494,Kinematics of Human Motion
+MECH 495,Ergonomics and Design
+MECH 496,Musculoskeletal Biomechanics
+ELEC 310,Introductory Analog Electronic and Digital Circuits
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+ELEC 221,Electric Circuits
+ELEC 278,Fundamentals of Information Structures an Software Engineering
+ELEC 271,Digital Systems
+MTHE 235,Differential Equations for Electrical and Computer Engineers
+CMPE 212,Introduction to Computing Science II
+ELEC 252,Electronics I
+ELEC 270,Discrete Mathematics with Computer Engineering Applications
+ELEC 274,Computer Architecture
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 299,Mechatronics Project
+ELEC 371,Microprocessor Interfacing and Embedded Systems
+ELEC 377,Operating Systems
+APSC 221,Economic and Business Practices in Engineering
+ELEC 326,Probability and Random Processes
+ELEC 374,Digital Systems Engineering
+ELEC 390,Electrical and Computer Engineering Design
+CMPE 223,Software Specifications
+CMPE 320,Fundamentals of Software Development
+ELEC 498,Computer Engineering Project
+ELEC 273,Numerical Methods and Optimization
+ELEC 323,Continuous-Time Signals and Systems
+ELEC 324,Discrete-Time Signals and Systems
+ELEC 344,Sensors and Actuators
+ELEC 353,Electronics II
+ELEC 408,Biomedical Signal and Image Processing
+ELEC 409,Bioinformatic Analytics
+ELEC 421,Digital Signal Processing: Filters and System Design
+ELEC 422,Digital Signal Processing: Random Models and Applications
+ELEC 431,Power Electronics
+ELEC 443,Linear Control Systems�
+ELEC 444,Modelling and Computer Control of Mechatronic Systems
+ELEC 448,Introduction to Robotics: Mechanics & Control or
+MECH 456,Introduction to Robotics
+ELEC 451,Digital Integrated Circuit Engineering
+ELEC 454,Analog Electronics
+ELEC 457,Analog Integrated Circuits and System Applications
+ELEC 461,Digital Communications
+ELEC 464,Wireless Communications
+ELEC 470,Computer System Architecture
+ELEC 471,Computer Networks I
+ELEC 474,Machine Vision
+ELEC 476,Modelling and Systems Simulation
+ELEC 478,Computer Networks II
+ELEC 497,Research Project
+ENPH 336,Solid State Devices
+APSC 381,Advanced Design and Skills for Innovation
+APSC 400,"Technology, Engineering and Management (TEAM)"
+APSC 480,Multi-disciplinary Industry Engineering Design Project
+CMPE 327,Software Quality Assurance (Also designated as CISC 327)
+CMPE 434,Distributed Systems
+CMPE 457,Image Processing and Computer Vision
+CMPE 458,Programming Language Processors
+SOFT 437,Performance Analysis (Also designated as CISC 437)
+CMPE 204,Logic for Computing Science
+CMPE 322,Software Architecture
+CMPE 325,Human Computer Interaction (Also designated as CISC 325)
+CMPE 326,Game Architecture
+CMPE 332,Database Management Systems
+CMPE 333,Introduction to Data Mining
+CMPE 365,Algorithms I
+CMPE 422,Formal Methods in Software Engineering
+CMPE 423,Software Requirements (Also designated as CISC 423)
+CMPE 425,Advanced User Interface Design (Also designated as CISC 425)
+CMPE 432,Advanced Database Systems
+CMPE 454,Computer Graphics
+CHEE 209,Analysis of Process Data
+CHEE 221,Chemical Processes and Systems
+CHEE 224,Transport Phenomena Fundamentals
+ENCH 211,Main Group Chemistry
+ENCH 212,Principles of Chemical Reactivity
+MTHE 225,Ordinary Differential Equations
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+CHEE 210,Thermodynamic Properties of Fluids
+CHEE 218,Laboratory Projects I
+CHEE 222,Process Dynamics and Numerical Methods
+CHEE 223,Fluid Mechanics
+ENCH 245,Applied Organic Chemistry I
+CHEE 310,Fundamentals of Engineering Innovation and Entrepreneurship
+CHEE 311,Fluid Phase and Reaction Equilibrium
+CHEE 315,Laboratory Projects II
+CHEE 321,Chemical Reaction Engineering
+CHEE 330,Heat and Mass Transfer
+CHEE 380,Biochemical Engineering
+CHEE 319,Process Dynamics and Control
+CHEE 323,Industrial Catalysis
+CHEE 331,Design of Unit Operations
+CHEE 360,Technical Communications
+CHEE 370���,Waste Treatment Processes
+CHEE 418,Strategies for Process Investigations
+CHEE 470,Design of Manufacturing Processes
+CHEE 412,Transport Phenomena in Chemical Engineering
+APSC 400,"Technology, Engineering and Management (TEAM)"
+APSC 480,Multi-disciplinary Industry Engineering Design Project
+CHEE 421,Research Project
+CHEE 420,Laboratory Projects III
+CHEE 340,Biomedical Engineering
+CHEE 440,Pharmaceutical Technology
+CHEE 450,Engineering Biology
+MECH 478,Biomaterials
+MECH 492,Biofluids
+CHEE 461,Electrochemical Engineering
+GEOE 418,Petroleum Geology
+MDEP 437,Fuel Cell Technology
+MECH 430,Thermal Systems Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+APSC 381,Advanced Design and Skills for Innovation
+CHEE 342,Environmental Biotechnology
+CHEE 481,Air Quality Management
+CHEE 484,Bioremediation
+CIVL 371,Groundwater Engineering
+CIVL 451,"Lake, Reservoir and Coastal Engineering"
+CIVL 471,Subsurface Contamination
+GEOE 343,Applied Hydrogeology
+MECH 424,Sustainable Product Design
+MECH 483,Nuclear Materials
+CHEE 323,Industrial Catalysis
+CHEE 324,Organic Process Development
+CHEE 460,Applied Surface and Colloid Science
+CHEE 490,Polymer Formulations and Processing Technology
+MECH 270,Materials Science and Engineering
+MECH 370,Principals of Materials Processing
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 476,Engineering of Polymers and Composite Materials
+MECH 478,Biomaterials
+MINE 267,Applied Chemistry for Mining
+MINE 331,Methods for Mineral Separation
+MINE 451,Chemical Extraction of Metals
+CHEE 434,Process Control II
+CHEE 436,Systems Identification
+MECH 444,Computational Fluid Dynamics
+CHEE 421,Research Project
+MECH 393,Biomechanical Product Development
+MECH 480,Airplane Aerodynamics and Performance
+ENCH 213,Introduction to Chemical Analysis
+ENCH 222,Methods of Structure Determination
+ENCH 311,Mechanistic Organic Chemistry
+ENCH 312,Transition Metal Chemistry
+ENCH 326,Environmental and Green Chemistry
+ENCH 411,Advanced Analytical Chemistry
+ENCH 422,Synthetic Organic Chemistry
+ENCH 424,Polymer Chemistry
+MTHE 339,Evolution Game Theory
+MTHE 434,Optimization Theory and Applications
+BIOL 102,Introductory Biology Cells
+BIOL 103,Introduction Biology of Organisms
+BIOM 300,Modeling Techniques in Biology
+CHEE 229,Cell Based Engineering Principles
+GEOE 238,"Surficial Processes, Sedimentation and Stratigraphy"
+CHEE 209,Analysis of Process Data
+CHEE 221,Chemical Processes and Systems
+CHEE 229,Cell Based Engineering Principles
+ENCH 211,Main Group Chemistry
+ENCH 212,Principles of Chemical Reactivity
+MTHE 225,Ordinary Differential Equations
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+CHEE 210,Thermodynamic Properties of Fluids
+CHEE 218,Laboratory Projects I
+CHEE 222,Process Dynamics and Numerical Methods
+CHEE 223,Fluid Mechanics
+ENCH 245,Applied Organic Chemistry I
+CHEE 310,Fundamentals of Engineering Innovation and Entrepreneurship
+CHEE 311,Fluid Phase and Reaction Equilibrium
+CHEE 321,Chemical Reaction Engineering
+CHEE 330,Heat and Mass Transfer
+CHEE 342,Environmental Biotechnology1
+CHEE 380,Biochemical Engineering
+CHEE 315,Laboratory Projects II
+CHEE 319,Process Dynamics and Control
+CHEE 332,Design and Scale up of Unit Operations
+CHEE 340,Biomedical Engineering
+CHEE 360,Technical Communications
+CHEE 370,Waste Treatment Processes
+CHEE 418,Strategies for Process Investigations
+CHEE 452,Transport Phenomena in Physiological Systems
+CHEE 470,Design of Manufacturing Processes
+APSC 400,"Technology, Engineering and Management (TEAM)"
+APSC 480,Multi-disciplinary Industry Engineering Design Project
+CHEE 408,Bioengineering Research Project
+CHEE 340,Biomedical Engineering
+CHEE 440,Pharmaceutical Technology
+CHEE 450,Engineering Biology
+MECH 478,Biomaterials
+MECH 492,Biofluids
+CHEE 461,Electrochemical Engineering
+GEOE 418,Petroleum Geology
+MDEP 437,Fuel Cell Technology
+MECH 430,Thermal Systems Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+APSC 381,Advanced Design and Skills for Innovation
+CHEE 342,Environmental Biotechnology
+CHEE 481,Air Quality Management
+CHEE 484,Bioremediation
+CIVL 371,Groundwater Engineering
+CIVL 451,"Lake, Reservoir and Coastal Engineering"
+CIVL 471,Subsurface Contamination
+GEOE 343,Applied Hydrogeology
+MECH 424,Sustainable Product Design
+MECH 483,Nuclear Materials
+CHEE 323,Industrial Catalysis
+CHEE 324,Organic Process Development
+CHEE 460,Applied Surface and Colloid Science
+CHEE 490,Polymer Formulations and Processing Technology
+MECH 270,Materials Science and Engineering
+MECH 370,Principals of Materials Processing
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 476,Engineering of Polymers and Composite Materials
+MECH 478,Biomaterials
+MINE 267,Applied Chemistry for Mining
+MINE 331,Methods for Mineral Separation
+MINE 451,Chemical Extraction of Metals
+CHEE 434,Process Control II
+CHEE 436,Systems Identification
+MECH 444,Computational Fluid Dynamics
+CHEE 421,Research Project
+MECH 393,Biomechanical Product Development
+MECH 480,Airplane Aerodynamics and Performance
+BCHM 315,Proteins and Enzymes
+BIOL 102,Introductory Biology of Cells
+BIOL 103,Introduction Biology of Organisms
+BIOL 205,Mendelian and Molecular Genetics
+BIOL 335,Limnology and Aquatic Ecology
+BIOM 300,Modeling Techniques in Biology
+CHEE 440,Pharmaceutical Technology
+CHEE 484,Bioremediation
+CIVL 371,Groundwater Engineering
+CIVL 451,"Lake, Reservoir and Coastal Engineering"
+CIVL 471,Subsurface Contamination
+ELEC 408,Biomedical Signal & Image Processing
+ENCH 213,Introduction to Chemical Analysis
+ENCH 323,Biological Chemistry
+ENCH 326,Environmental and Green Chemistry
+GEOE 281,Gene Structure & Function (Molecular Biology)
+MBIO 218,Gene Structure and Function (Molecular Biology)
+MECH 393,Biomechanical Product Development
+MECH 424,Sustainable Product Design
+MECH 478,Biomaterials
+MECH 483,Nuclear Materials
+MECH 492,Biofluids
+MTHE 434,Optimization Theory and Applications
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+CIVL 200,Civil Week I: Professional Skills
+CIVL 210,Chemistry for Civil Engineers
+CIVL 230,Solid Mechanics I
+MTHE 224,Applied Mathematics for Civil Engineers
+,Complementary Studies- Humanities & Social Sciences List A
+APSC 221,Economic and Business Practices in Engineering
+CIVL 215,Materials for Civil Engineers
+CIVL 222,Numerical Methods for Civil Engineers
+CIVL 231,Solid Mechanics II
+CIVL 250,Hydraulics I
+CIVL 300,Civil Week II: Professional Skills
+CIVL 330,Structural Analysis
+CIVL 340,Geotechnical Engineering I
+CIVL 350,Hydraulics II
+CIVL 371,Groundwater Engineering
+CIVL 331,Structural Steel Design
+CIVL 341,Geotechnical Engineering II
+CIVL 360,Civil Engineering Design & Practice III
+CIVL 372,Water & Wastewater Engineering
+,Management Elective
+CIVL 400,Civil Week III: Professional Skills
+CIVL 460,Civil Engineering Design and Practice IV
+CIVL 430,Reinforced Concrete Design
+CIVL 442,Geotechnical Design
+CIVL 450,Municipal Hydraulics
+CIVL 451,"Lake, Reservoirs & Coastal Engineering"
+CIVL 473,Water Resources Systems
+CIVL 431,Infrastructure Rehabilitation
+CIVL 436,Prestressed Concrete
+CIVL 443,Geoenvironmental Design
+CIVL 455,River Engineering
+CIVL 471,Subsurface Contamination
+CIVL 500,Civil Engineering Thesis
+APSC 381,Advanced Design & Skills for Innovation
+APSC 480,Multi-disciplinary Industry Engineering Design Project
+MECH 333,"Gender, Engineering and Technology"
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 441,Fluid Mechanics III
+MECH 444,Computational Fluid Dynamics
+CHEE 484,Bioremediation
+CHEE 481,Air Quality Management
+CHEE 342,Environmental Biotechnology
+MINE 462,Occupational Health and Safety in Mining Practice
+SURP 853,Environmental Services
+SURP 856,Environmental Assessment
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+ELEC 221,Electric Circuits
+ELEC 271,Digital Systems
+ELEC 278,Fundamentals of Information Structures and Software Engineering
+MTHE 235,Differential Equations for Electrical & Computer Engineers
+ELEC 252,Electronics I
+ELEC 273,Numerical Methods and Optimization
+ELEC 274,Computer Architecture
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 299,Mechatronics Project
+MTHE 228,Complex Analysis���
+ELEC 323,Continuous-Time Signals and Systems
+ELEC 353,Electronics II
+ELEC 371,Microprocessor Interfacing and Embedded Systems
+ELEC 381,Applications of Electromagnetics
+APSC 221,Economic and Business Practices in Engineering
+ELEC 324,Discrete-Time Signals and Systems
+ELEC 326,Probability and Random Processes
+ELEC 390,Electrical and Computer Engineering Design
+ENPH 336,Solid State Devices
+ELEC 490,Electrical Engineering Project
+CMPE 212,Introduction to Computing Science II
+ELEC 333,Electric Machines
+ELEC 344,Sensors and Actuators
+ELEC 408,Biomedical Signal and Image Processing
+ELEC 409,Bioinformatic Analytics
+ELEC 421,Digital Signal Processing: Filters and System Design
+ELEC 422,Digital Signal Processing: Random Models and Applications
+ELEC 431,Power Electronics
+ELEC 433,Energy and Power Systems
+ELEC 436,Electric Machines and Control
+ELEC 443,Linear Control Systems
+ELEC 444,Modeling and Computer Control of Mechatronic Systems
+ELEC 448,Introduction to Robotics: Mechanics and Control
+MECH 456,Introduction to Robotics
+ELEC 451,Digital Integrated Circuit Engineering
+ELEC 454,Analog Electronics
+ELEC 457,Analog Integrated Circuits and System Applications
+ELEC 461,Digital Communications
+ELEC 464,Wireless Communications
+ELEC 470,Computer System Architecture
+ELEC 471,Computer Networks I
+ELEC 474,Machine Vision
+ELEC 476,Modelling and Systems Simulation
+ELEC 478,Computer Networks II
+ELEC 483,Microwave and RF Circuits and Systems
+ELEC 486,Fiber Optic Communications
+ELEC 497,Research Project
+APSC 381,Advanced Design and Skills for Innovation
+APSC 400,"Technology, Engineering and Management (TEAM)"
+APSC 480,Multi-disciplinary Industry Engineering Design Project
+CHEE 436,System Identification
+CHEE 442,Biomedical Engineering
+ENPH 460,Laser Optics
+MTHE 337,Introduction to Operations Research Models
+MTHE 367,Engineering Data Analysis
+MTHE 430,Modern Control Theory
+MTHE 455,Stochastic Processes and Applications
+MTHE 472,Control of Stochastic Processes
+MTHE 474,Information Theory
+MTHE 477,Data Compression and Source Coding
+MTHE 478,Topics in Communication Theory
+MECH 228,Kinematics and Dynamics
+MECH 328,Dynamics and Vibration
+MECH 393,Biomechanical Product Development
+MECH 423,Introduction to Microsystems
+MECH 455,Computer Integrated Manufacturing
+MECH 465,Computer-Aided Design
+MECH 478,Biomaterials
+MECH 494,Kinematics of Human Motion
+CHEE 209,Analysis of Process Data
+CHEE 221,Chemical Processes and Systems
+ENCH 211,Main Group Chemistry
+ENCH 212,Principles of Chemical Reactivity
+ENCH 213,Introduction to Chemical Analysis
+MTHE 225,Ordinary Differential Equations
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+CHEE 210,Thermodynamic Properties of Fluids
+CHEE 222,Process Dynamics and Numerical Methods
+CHEE 223,Fluid Mechanics
+ENCH 222,Methods of Structure Determination
+ENCH 245,Applied Organic Chemistry I
+CHEE 311,Fluid Phase and Reaction Equilibrium
+CHEE 321,Chemical Reaction Engineering
+CHEE 330,Heat and Mass Transfer
+ENCH 312,Transition Metal Chemistry
+ENCH 398,Experimental Chemistry I
+CHEE 323,Industrial Catalysis
+CHEE 324,Organic Process Development
+CHEE 333,Design of Unit Operations
+CHEE 360,Technical Communications II
+ENCH 399,Experimental Chemistry II
+APSC 221,Economics & Business Practices in Engineering
+CHEE 310,Fundamentals of Engineering Innovation & Entrepreneurship
+CHEE 460,Applied Surface and Colloid Science
+CHEE 470,Design of Manufacturing Processes
+ENCH 346,Quantum Mechanics and Molecular Simulation
+ENCH 417,Research Project
+CHEE 315,Laboratory Projects III
+CHEE 461,Electrochemical Engineering
+CHEE 340,Biomedical Engineering
+CHEE 380,Biochemical Engineering
+CHEE 340,Biomedical Engineering
+CHEE 440,Pharmaceutical Technology
+MECH 478,Biomaterials
+MECH 492,Biofluids
+CHEE 340,Biomedical Engineering
+CHEE 440,Pharmaceutical Technology
+MECH 478,Biomaterials
+MECH 492,Biofluids
+CHEE 342,Environmental Biotechnology
+CHEE 370,Waste Treatment Processes
+CHEE 481,Air Quality Management
+CHEE 484,Bioremediation
+CIVL 371,Groundwater Engineering
+CIVL 372,Water and Wastewater Engineering
+CIVL 451,"Lake, Reservoir and Coastal Engineering"
+CIVL 471,Subsurface Contamination
+MECH 424,Sustainable Product Design
+CHEE 490,Polymer Formulations and Processing Technology
+MECH 393,Biomechanical Product Development
+MINE 331,Methods of Mineral Separation
+MINE 451,Chemical Extraction of Metals
+APSC 381,Advanced Design and Skills for Innovation
+CHEE 319,Process Dynamics and Control
+CHEE 412,Transport Phenomena in Chemical Engineering
+CHEE 418,Strategies for Process Investigations
+CHEE 434,Process Control II
+MDEP 437,Fuel Cell Technology
+MECH 393,Biomechanical Product Development
+MECH 430,Thermal Systems Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+MECH 444,Computational Fluid Dynamics
+MECH 480,Airplane Aerodynamics and Performance
+BCHM 310,General Biochemistry
+BCHM 315,Proteins and Enzymes
+BCHM 410,Protein Structure and Function
+BIOL 102,Introductory Biology of Cells
+CHEE 224,Transport Phenomena Fundamentals
+CHEE 229,Cell Based Engineering Principals
+ENCH 311,Mechanistic Organic Chemistry
+ENCH 321,Instrumental Chemical Analysis
+ENCH 322,The Chemical Bond: Computation & Spectroscopy
+ENCH 323,Biological Chemistry
+ENCH 326,Environmental and Green Chemistry
+ENCH 411,Advanced Analytical Chemistry
+ENCH 412,Statistical Mechanics
+ENCH 413,Computational Chemistry
+ENCH 414,Catalysis
+ENCH 421,Advanced Methods in Physical Chemistry
+ENCH 422,Synthetic Organic Chemistry
+ENCH 423,Topics in Inorganic and Organometallic Chemistry
+ENCH 424,Polymer Chemistry
+ENCH 425,Self-Assembly and Materials
+MICR 360,Immunology
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+MTHE 227,Vector Analysis
+MTHE 237,Differential Equations For Engineering Science
+ENPH 242,Relativity and Quanta
+ELEC 221,Electric Circuits
+ENPH 211,Applied Physics
+ENPH 225,Mechanics
+ENPH 239,Engineering Electricity and Magnetism
+ENPH 252,Management of Experimental Data
+ENPH 253,Engineering Physics Laboratory I
+ENPH 213,Computational Engineering Physics
+MTHE 338�,Fourier Methods for Boundary Value Problems
+ENPH 344,Introduction to Quantum Mechanics
+ENPH 354,Engineering Physics Design Project
+APSC 221,Engineering Economics
+ENPH 345,"Quantum Physics of Atoms, Nuclei and Particles"
+ENPH 353,Engineering Physics Laboratory II
+ENPH 431,Electromagnetic Theory
+ENPH 454,Advanced Engineering Physics Design Project
+ENPH 455,Engineering Physics Thesis
+ENPH 453,Advanced Physics Laboratory
+ENPH 321,Advanced Mechanics
+ENPH 414,General Relativity
+ENPH 460,Laser Optics
+ENPH 472,Statistical Mechanics
+ENPH 480,Solid State Physics
+ENPH 483,Nanoscience and Nanotechnology
+ENPH 490,Nuclear Physics
+ENPH 491,Physics of Nuclear Reactors
+ENPH 495,Introduction to Medical Physics
+ELEC 271,Digital Systems
+ELEC 252,Electronics I
+ELEC 323,Continuous-Time Signals and Systems
+ELEC 353,Electronics II
+ENPH 372,Thermodynamics
+ELEC 324,Discrete-Time Signals and Systems
+ELEC 326,Probability and Random Processes
+ENPH 336,Solid State Devices
+ELEC 408,Biomedical Signal and Image Processing
+ELEC 409,Bioinformatic Analytics
+ELEC 421,Digital Signal Processing: Filters and System Design
+ELEC 422,Digital Signal Processing: Random Models and Applications
+ELEC 443,Control Systems I
+ELEC 448,Introduction to Robotics: Mechanics and Control
+ELEC 451,Digital Integrated Circuit Engineering
+ELEC 454,Analog Electronics
+ELEC 457,Integrated Circuits and System Applications
+ELEC 461,Digital Communications
+ELEC 464,Wireless Communications
+ELEC 471,Computer Networks I
+ELEC 476,Modeling and Systems Simulation
+ELEC 478,Computer Networks II
+ELEC 483,Microwave and RF Circuits and Systems
+ELEC 486,Fiber Optic Communications
+CHEE 340,Biomedical Engineering
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+MTHE 227,Vector Analysis
+MTHE 237,Differential Equations For Engineering Science
+ENPH 242,Relativity and Quanta
+ELEC 221,Electric Circuits
+ENPH 211,Applied Physics
+ENPH 225,Mechanics
+ENPH 239,Engineering Electricity and Magnetism
+ENPH 252,Management of Experimental Data
+ENPH 253,Engineering Physics Laboratory I
+ENPH 213,Computational Engineering Physics
+MTHE 338,Fourier Methods for Boundary Value Problems
+ENPH 344,Introduction to Quantum Mechanics
+ENPH 354,Engineering Physics Design Project
+APSC 221,Engineering Economics
+ENPH 345,"Quantum Physics of Atoms, Nuclei and Particles"
+ENPH 353,Engineering Physics Laboratory II
+ENPH 431,Electromagnetic Theory
+ENPH 454,Advanced Engineering Physics Design Project
+ENPH 455,Engineering Physics Thesis
+ENPH 453,Advanced Physics Laboratory
+ENPH 321,Advanced Mechanics
+ENPH 414,General Relativity
+ENPH 460,Laser Optics
+ENPH 472,Statistical Mechanics
+ENPH 480,Solid State Physics
+ENPH 483,Nanoscience and Nanotechnology
+ENPH 490,Nuclear Physics
+ENPH 491,Physics of Nuclear Reactors
+ENPH 495,Introduction to Medical Physics
+MECH 270,Materials Science and Engineering
+MECH 241,Fluid Mechanics I
+MECH 396,Materials Engineering Laboratory I
+MECH 370,Principles of Materials Processing
+ENPH 334,Electronics for Applied Scientists
+ENPH 372,Thermodynamics
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 397,Materials Engineering Laboratory II
+ENPH 480,Solid State Physics
+MDEP 437,Fuel Cell Technology
+MECH 423,Introduction to Microsystems
+MECH 470,Deformation Processing
+MECH 476,Engineering of Polymers and Composites
+MECH 478,Biomaterials
+MECH 479,Nano-Structured Materials
+MECH 483,Nuclear Materials
+MECH 484,Introduction to Ceramics
+CHEE 340,Biomedical Engineering
+ENPH 321,Advanced Mechanics
+ENPH 414,General Relativity
+ENPH 460,Laser Optics
+ENPH 472,Statistical Mechanics
+ENPH 480,Solid State Physics
+ENPH 483,Nanoscience and Nanotechnology
+ENPH 490,Nuclear Physics
+ENPH 491,Physics of Nuclear Reactors
+ENPH 495,Introduction to Medical Physics
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+MTHE 227,Vector Analysis
+MTHE 237,Differential Equations For Engineering Science
+ENPH 242,Relativity and Quanta
+ELEC 221,Electric Circuits
+ENPH 211,Applied Physics
+ENPH 225,Mechanics
+ENPH 239,Engineering Electricity and Magnetism
+ENPH 252,Management of Experimental Data
+ENPH 253,Engineering Physics Laboratory I
+ENPH 213,Computational Engineering Physics
+MTHE 338�,Fourier Methods for Boundary Value Problems
+ENPH 344,Introduction to Quantum Mechanics
+ENPH 354,Engineering Physics Design Project
+APSC 221,Engineering Economics
+ENPH 345,"Quantum Physics of Atoms, Nuclei and Particles"
+ENPH 353,Engineering Physics Laboratory II
+ENPH 431,Electromagnetic Theory
+ENPH 454,Advanced Engineering Physics Design Project
+ENPH 455,Engineering Physics Thesis
+ENPH 453,Advanced Physics Laboratory
+MECH 230,Thermodynamics I
+MECH 241,Fluid Mechanics I
+ENPH 334,Electronics for Applied Scientists
+MECH 330,Applied Thermodynamics II
+MECH 341,Fluid Mechanics II
+MECH 346,Heat Transfer
+MECH 350,Automatic Controls
+CHEE 340,Biomedical Engineering
+MDEP 437,Fuel Cell Technology
+MECH 420,Vibrations
+MECH 423,Introduction to Microsystems
+MECH 424,Life Cycle Engineering
+MECH 430,Thermal Systems Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+MECH 441,Fluid Mechanics III
+MECH 444,Computational Fluid Dynamics
+MECH 448,Compressible Fluid Flow
+MECH 452,Mechatronics Engineering
+MECH 456,Introduction to Robotics
+MECH 465,Computer-Aided Design
+MECH 480,Aerospace Engineering
+MECH 481,Wind Energy
+MECH 482,Noise Control
+MECH 492,Biofluids
+MECH 495,Ergonomics and Design
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+MTHE 227,Vector Analysis
+MTHE 237,Differential Equations For Engineering Science
+ENPH 242,Relativity and Quanta
+ELEC 221,Electric Circuits
+ENPH 211,Applied Physics
+ENPH 225,Mechanics
+ENPH 239,Engineering Electricity and Magnetism
+ENPH 252,Management of Experimental Data
+ENPH 253,Engineering Physics Laboratory I
+ENPH 213,Computational Engineering Physics
+MTHE 338,Fourier Methods for Boundary Value Problems
+ENPH 344,Introduction to Quantum Mechanics
+ENPH 354,Engineering Physics Design Project
+APSC 221,Engineering Economics
+ENPH 345,"Quantum Physics of Atoms, Nuclei and Particles"
+ENPH 353,Engineering Physics Laboratory II
+ENPH 431,Electromagnetic Theory
+ENPH 454,Advanced Engineering Physics Design Project
+ENPH 455,Engineering Physics Thesis
+ENPH 453,Advanced Physics Laboratory
+ENPH 321,Advanced Mechanics
+ENPH 414,General Relativity
+ENPH 460,Laser Optics
+ENPH 472,Statistical Mechanics
+ENPH 480,Solid State Physics
+ENPH 483,Nanoscience and Nanotechnology
+ENPH 490,Nuclear Physics
+ENPH 491,Physics of Nuclear Reactors
+ENPH 495,Introduction to Medical Physics
+CMPE 212,Computing Science for Engineers
+ELEC 278,Fundamentals of Information Structures and Software Engineering
+ELEC 271,Digital Systems
+ENPH 334,Electronics for Applied Scientists
+CMPE 320,Fundamentals of Software Development
+ELEC 274,Computer Architecture
+ENPH 372,Thermodynamics
+CHEE 340,Biomedical Engineering
+CMPE 330,Computer Integrated Surgery
+CMPE 365,Algorithms
+CMPE 452,Neural and Genetic Computing
+CMPE 454,Computer Graphics
+CMPE 457,Image Processing and Computer Vision
+CMPE 458,Programming Language Processors
+CMPE 472,Medical Informatics
+ELEC 371,Microprocessors
+ELEC 374,Digital Systems Engineering
+ELEC 377,Operating Systems
+ELEC 408,Biomedical Signal and Image Processing
+ELEC 409,Bioinformatic Analytics
+CHEE 209,Analysis of Process Data
+CIVL 230,Introduction to Solid Mechanics
+GEOE 221,Geological Engineering Field Methods
+GEOE 232,Mineralogy
+GEOE 281,Earth Systems Engineering
+APSC 221,Economics and Business Practices in Engineering
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+GEOE 235,Genesis and Characterization of Solid Earth�Materials
+GEOE 238,"Surficial Processes, Sedimentation and Stratigraphy"
+GEOE 249,Geophysical Characterization of the Earth
+MTHE 225,Ordinary Differential Equations
+GEOE 300,Geological Engineering Field School
+GEOE 321,Analysis of Rock Structures
+GEOE 343,Applied Hydrogeology
+GEOE 359,Applied Quantitative Analysis in Geological Engineering
+GEOE 362,Resource Engineering
+GEOE 319,Applied Geophysics
+GEOE 333,Terrain Evaluation
+GEOE 345,Site Investigation and Case Histories
+GEOE 365,Geochemical Characterization of the Earth
+GEOE 207,History of Life
+GEOE 410,Geological Engineering Field School
+GEOE 446,Engineering Design Project I
+GEOE 413,Geomechanics and Rock Engineering
+GEOE 447,Engineering Design Project II
+APSC 381,Advanced Design and Skills for Innovation
+APSC 400,"Technology, Engineering and Management (TEAM)"
+APSC 480,Multi-disciplinary Industry Engineering Design Project
+ENCH 213,Introduction to Chemical Analysis
+ENCH 281,General Organic Chemistry
+CIVL 340,Geotechnical Engineering I
+CIVL 341,Geotechnical Engineering II
+CIVL 443,Geoenvironmental Design
+CIVL 451,"Lake, Reservoir and Coastal Engineering"
+CIVL 471,Subsurface Contamination
+ELEC 381,Applications of Electromagnetics
+GEOE 301,Field Studies in Geology
+GEOE 337,Paleontology
+GEOE 340,Problems in Geological Engineering
+GEOE 341,Problems in Applied Geology
+GEOE 368,Carbonate Sedimentology
+GEOE 401,Field Studies in Geology II
+GEOE 418,Petroleum Geology
+GEOE 419,Geophysics Field School
+GEOE 439,Advanced Applied Geophysics
+GEOE 462,Advanced Petrogenesis and Metallogenesis
+GEOE 463,Spatial Information Management in the Geosciences
+GEOE 464,Visualization in the Geosciences
+GEOE 466,Isotopes and the Environment
+GEOE 475,Exploration and Environmental Geochemistry
+GEOE 478,Terrigeneous Clastic Sedimentology
+GEOE 481,Structural Analysis Applied to Resource Deposits
+GEOE 488,Geology of North America
+GPHY 304,Arctic and Periglacial Environments
+MTHE 227,Vector Analysis
+MTHE 228,Complex Analysis
+MINE 321,Drilling and Blasting
+MINE 325,Applied Rock Mechanics
+MINE 326,"Geostatics, Operations Research and Computer Applications"
+MINE 331,Methods of Mineral Separation
+MINE 422,Mining and Sustainability
+MINE 451,Chemical Extractions of Metals
+MINE 469,Stability Analysis in Mine Design
+ENPH 225,Mechanics
+ENPH 239,Electricity and Magnetism
+ENPH 332,Electromagnetic Theory
+ENPH 333,Electronics for Scientists and Engineers
+MECH 221,Statics and Solid Mechanics
+MTHE 225,Ordinary Differential Equations
+MECH 213,Manufacturing Methods
+MECH 230,Thermodynamics I
+MECH 215,Instrumentation and Measurement
+MECH 270,Materials Science and Engineering
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+ELEC 210,Introductory Electric Circuits and Machines
+MTHE 272,Application of Numerical Methods
+MECH 216,Instrumentation and Measurement Labs
+MECH 228,Kinematics and Dynamics
+MECH 241,Fluid Mechanics I
+APSC 221,Economics and Business Practices in Engineering
+MECH 321,Solid Mechanics II
+MECH 328,Dynamics and Vibration
+ELEC 310,Introductory Analog Electronic and Digital Circuits
+MECH 323,Machine Design
+MECH 346,Heat Transfer
+MECH 350,Automatic Controls
+MTHE 367,Engineering Data Analysis
+APSC 381,Advanced Design and Skills for Innovation (Must typically be taken in 3rd�year if students choose to take APSC 480 as their final year project.
+APSC 400,"Technology, Engineering and Management (TEAM)"
+CHEE 340,Biomedical Engineering�
+CHEE 490,Polymer Science and Process Technology
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 333,Electric Machines
+MDEP 437,Fuel Cell Technology
+MECH 330,Applied Thermodynamics II
+MECH 341,Fluid Mechanics II
+MECH 361,"Project Based Engineering: Conceive, Design, Implement and Operate"
+MECH 370,Principles of Materials Processing
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 393,Biomechanical Product Development
+MECH 420,Vibrations
+MECH 423,Introduction to Microsystems
+MECH 424,Sustainable Product Design
+MECH 430,Thermal Systems Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+MECH 441,Fluid Mechanics III
+MECH 444,Computational Fluid Dynamics
+MECH 448,Compressible Fluid Flow
+MECH 452,Mechatronics Engineering
+MECH 455,Computer Integrated�Manufacturing
+MECH 456,Introduction to Robotics
+MECH 458,Machine Condition Monitoring and Fault Diagnostics
+MECH 461,Research Project
+MECH 462,Team Project - Implement and Operate (Option core to ME3)
+MECH 465,Computer-Aided Design
+MECH 480,Airplane Aerodynamics and Performance
+MECH �481,Wind Energy
+MECH 482,Noise Control
+MECH 461,Research Project
+MECH 470,Deformation Processing
+MECH 476,Engineering of Polymers and Composite Materials
+MECH 478,Biomaterials
+MECH 479,Nano-Structured Materials
+MECH 483,Nuclear Materials
+MECH 484,Introduction to Ceramics
+MECH 461,Research Project
+CHEE 380,Biochemical Engineering
+CHEE 440,Pharmaceutical Technology
+CHEE 450,Engineering Biology
+CHEE 484,Bioremediation
+ELEC 408,Biomedical Signal and Image Processing
+MECH 465,Computer-Aided Design
+MECH 478,Biomaterials
+MECH 492,Biofluids
+MECH 494,Kinematics of Human Motion
+MECH 495,Ergonomics and Design
+MECH 496,Musculoskeletal Biomechanics
+ANAT 100,Anatomy of the Human Body
+CHEE 342,Environmental Biotechnology
+CHEE 370,Waste Treatment Processes
+CHEE 412,Transport Phenomena in Chemical Engineering
+CHEE 461,Electrochemical Engineering
+CIVL 371,Environmental Engineering 2
+CIVL 372,Water and Wastewater Engineering
+CIVL 471,Subsurface Contamination
+CIVL 473,Water Resources Systems
+ELEC 271,Digital Systems
+ELEC 274,Computer Architecture
+ELEC 371,Microprocessor Systems
+MTHE 212,Linear Algebra
+MTHE 337,Introduction to Operations Research Models
+MTHE 338,Topics in Applied Mathematics
+MTHE 434,Optimization Theory and Applications
+MTHE 472,Control of Stochastic Systems
+MINE 459,"Reliability, Maintenance and Risk Assessment"
+ENPH 491,Physics of Nuclear Reactors
+MECH 330,Applied Thermodynamics II
+MECH 396�,Materials Engineering Laboratory I
+MECH 341,Fluid Mechanics II
+MECH 397�,Materials Engineering Laboratory II or
+MECH 399, Mechanical Engineering Laboratory II
+MECH 460,Team Project - Conceive and Design
+MECH 464,Communications and Project Management
+MECH 398,Mechanical Engineering Laboratory I
+MECH 221,Statics and Solid Mechanics
+MTHE 225,Ordinary Differential Equations
+MECH 213,Manufacturing Methods
+MECH 230,Thermodynamics I
+MECH 215,Instrumentation and Measurement
+MECH 270,Materials Science and Engineering
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+ELEC 210,Introductory Electric Circuits and Machines
+MTHE 272,Application of Numerical Methods
+MECH 216,Instrumentation and Measurement Labs
+MECH 228,Kinematics and Dynamics
+MECH 241,Fluid Mechanics I
+APSC 221,Economics and Business Practices in Engineering
+MECH 321,Solid Mechanics II
+MECH 328,Dynamics and Vibration
+ELEC 310,Introductory Analog Electronic and Digital Circuits
+MECH 323,Machine Design
+MECH 346,Heat Transfer
+MECH 350,Automatic Controls
+MTHE 367,Engineering Data Analysis
+APSC 381,Advanced Design and Skills for Innovation (Must typically be taken in 3rd�year if students choose to take APSC 480 as their final year project.
+APSC 400,"Technology, Engineering and Management (TEAM)"
+CHEE 340,Biomedical Engineering�
+CHEE 490,Polymer Science and Process Technology
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 333,Electric Machines
+MDEP 437,Fuel Cell Technology
+MECH 330,Applied Thermodynamics II
+MECH 341,Fluid Mechanics II
+MECH 361,"Project Based Engineering: Conceive, Design, Implement and Operate"
+MECH 370,Principles of Materials Processing
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 393,Biomechanical Product Development
+MECH 420,Vibrations
+MECH 423,Introduction to Microsystems
+MECH 424,Sustainable Product Design
+MECH 430,Thermal Systems Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+MECH 441,Fluid Mechanics III
+MECH 444,Computational Fluid Dynamics
+MECH 448,Compressible Fluid Flow
+MECH 452,Mechatronics Engineering
+MECH 455,Computer Integrated�Manufacturing
+MECH 456,Introduction to Robotics
+MECH 458,Machine Condition Monitoring and Fault Diagnostics
+MECH 461,Research Project
+MECH 462,Team Project - Implement and Operate (Option core to ME3)
+MECH 465,Computer-Aided Design
+MECH 480,Airplane Aerodynamics and Performance
+MECH �481,Wind Energy
+MECH 482,Noise Control
+MECH 461,Research Project
+MECH 470,Deformation Processing
+MECH 476,Engineering of Polymers and Composite Materials
+MECH 478,Biomaterials
+MECH 479,Nano-Structured Materials
+MECH 483,Nuclear Materials
+MECH 484,Introduction to Ceramics
+MECH 461,Research Project
+CHEE 380,Biochemical Engineering
+CHEE 440,Pharmaceutical Technology
+CHEE 450,Engineering Biology
+CHEE 484,Bioremediation
+ELEC 408,Biomedical Signal and Image Processing
+MECH 465,Computer-Aided Design
+MECH 478,Biomaterials
+MECH 492,Biofluids
+MECH 494,Kinematics of Human Motion
+MECH 495,Ergonomics and Design
+MECH 496,Musculoskeletal Biomechanics
+ANAT 100,Anatomy of the Human Body
+CHEE 342,Environmental Biotechnology
+CHEE 370,Waste Treatment Processes
+CHEE 412,Transport Phenomena in Chemical Engineering
+CHEE 461,Electrochemical Engineering
+CIVL 371,Environmental Engineering 2
+CIVL 372,Water and Wastewater Engineering
+CIVL 471,Subsurface Contamination
+CIVL 473,Water Resources Systems
+ELEC 271,Digital Systems
+ELEC 274,Computer Architecture
+ELEC 371,Microprocessor Systems
+MTHE 212,Linear Algebra
+MTHE 337,Introduction to Operations Research Models
+MTHE 338,Topics in Applied Mathematics
+MTHE 434,Optimization Theory and Applications
+MTHE 472,Control of Stochastic Systems
+MINE 459,"Reliability, Maintenance and Risk Assessment"
+ENPH 491,Physics of Nuclear Reactors
+MECH 370,Principles of Materials Processing
+MECH 396,Materials Engineering Laboratory I
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 397,Materials Engineering Laboratory II
+MECH 460,Team Project - Conceive and Design
+MECH 464,Communications and Project Management
+MECH 221,Statics and Solid Mechanics
+MTHE 225,Ordinary Differential Equations
+MECH 213,Manufacturing Methods
+MECH 230,Thermodynamics I
+MECH 215,Instrumentation and Measurement
+MECH 270,Materials Science and Engineering
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+ELEC 210,Introductory Electric Circuits and Machines
+MTHE 272,Application of Numerical Methods
+MECH 216,Instrumentation and Measurement Labs
+MECH 228,Kinematics and Dynamics
+MECH 241,Fluid Mechanics I
+APSC 221,Economics and Business Practices in Engineering
+MECH 321,Solid Mechanics II
+MECH 328,Dynamics and Vibration
+ELEC 310,Introductory Analog Electronic and Digital Circuits
+MECH 323,Machine Design
+MECH 346,Heat Transfer
+MECH 350,Automatic Controls
+MTHE 367,Engineering Data Analysis
+APSC 381,Advanced Design and Skills for Innovation (Must typically be taken in 3rd�year if students choose to take APSC 480 as their final year project.
+APSC 400,"Technology, Engineering and Management (TEAM)"
+CHEE 340,Biomedical Engineering�
+CHEE 490,Polymer Science and Process Technology
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 333,Electric Machines
+MDEP 437,Fuel Cell Technology
+MECH 330,Applied Thermodynamics II
+MECH 341,Fluid Mechanics II
+MECH 361,"Project Based Engineering: Conceive, Design, Implement and Operate"
+MECH 370,Principles of Materials Processing
+MECH 371,Fracture Mechanics and Dislocation Theory
+MECH 393,Biomechanical Product Development
+MECH 420,Vibrations
+MECH 423,Introduction to Microsystems
+MECH 424,Sustainable Product Design
+MECH 430,Thermal Systems Design
+MECH 435,Internal Combustion Engines
+MECH 439,Turbomachinery
+MECH 441,Fluid Mechanics III
+MECH 444,Computational Fluid Dynamics
+MECH 448,Compressible Fluid Flow
+MECH 452,Mechatronics Engineering
+MECH 455,Computer Integrated�Manufacturing
+MECH 456,Introduction to Robotics
+MECH 458,Machine Condition Monitoring and Fault Diagnostics
+MECH 461,Research Project
+MECH 462,Team Project - Implement and Operate (Option core to ME3)
+MECH 465,Computer-Aided Design
+MECH 480,Airplane Aerodynamics and Performance
+MECH �481,Wind Energy
+MECH 482,Noise Control
+MECH 461,Research Project
+MECH 470,Deformation Processing
+MECH 476,Engineering of Polymers and Composite Materials
+MECH 478,Biomaterials
+MECH 479,Nano-Structured Materials
+MECH 483,Nuclear Materials
+MECH 484,Introduction to Ceramics
+MECH 461,Research Project
+CHEE 380,Biochemical Engineering
+CHEE 440,Pharmaceutical Technology
+CHEE 450,Engineering Biology
+CHEE 484,Bioremediation
+ELEC 408,Biomedical Signal and Image Processing
+MECH 465,Computer-Aided Design
+MECH 478,Biomaterials
+MECH 492,Biofluids
+MECH 494,Kinematics of Human Motion
+MECH 495,Ergonomics and Design
+MECH 496,Musculoskeletal Biomechanics
+ANAT 100,Anatomy of the Human Body
+CHEE 342,Environmental Biotechnology
+CHEE 370,Waste Treatment Processes
+CHEE 412,Transport Phenomena in Chemical Engineering
+CHEE 461,Electrochemical Engineering
+CIVL 371,Environmental Engineering 2
+CIVL 372,Water and Wastewater Engineering
+CIVL 471,Subsurface Contamination
+CIVL 473,Water Resources Systems
+ELEC 271,Digital Systems
+ELEC 274,Computer Architecture
+ELEC 371,Microprocessor Systems
+MTHE 212,Linear Algebra
+MTHE 337,Introduction to Operations Research Models
+MTHE 338,Topics in Applied Mathematics
+MTHE 434,Optimization Theory and Applications
+MTHE 472,Control of Stochastic Systems
+MINE 459,"Reliability, Maintenance and Risk Assessment"
+ENPH 491,Physics of Nuclear Reactors
+CHEE 340,Biomedical Engineering
+MECH 396�,Materials Engineering Laboratory I
+MECH 398,Mechanical Engineering Laboratory I
+MECH 393,Biomechanical Product Development
+MECH 397,Materials Engineering Laboratory II
+MECH 460,Team Project - Conceive and Design
+MECH 462,Team Project - Implement and Operate
+MECH 464,Communications and Project Management
+ MECH 399,Mechanical Engineering Laboratory II
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+CIVL 230,Introduction�to Solid Mechanics�
+MINE 201,Introduction to Mining and Mineral Processing
+MINE 202,Computer Applications and Instrumentation in Mining
+MTHE 225,Ordinary Differential Equations
+APSC 221,Economics and Business Practices in Engineering
+ELEC 210,Introductory Electric Circuits and Machines
+MINE 244,Underground Mining
+MTHE 272,Application of Numerical Methods
+MINE 321,Drilling and Blasting
+MINE 331,Methods of Mineral Separation
+MINE 341,Open Pit Mining
+GEOE 262,Geological Aspects of Mineral Deposits
+MINE 324,Hydraulics for Mining Applications
+MINE 325,Applied Rock Mechanics
+MINE 326,Operations Research
+MINE 422,Mining and Sustainability
+MINE 459,"Reliability, Maintenance, and Risk Assessment"
+MINE 462,Occupational Health and Safety in Mining Practice
+MINE 434,Project Report��
+ECON 239,Economic Development
+ECON 240,Canadian Tax Policy
+ECON 261,Canadian Labour Relations
+ECON 290,Environmental Economics and Assessment
+ELEC 221,Electric Circuits
+ELEC 252,Electronics I
+ELEC 270,Discrete Mathematics with Computer Engineering Applications
+ELEC 271,Digital Systems
+ELEC 274,Computer Architecture
+ELEC 278,Fundamentals of Information Structures
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 333,Electric Machines
+ELEC 431,Power Electronics
+ENSC 201,Environmental Toxicology and Chemical Risks
+ENSC 301,Environmental Assessment
+ENSC 305,Social Environments
+ENSC 321,Environmental Justice in Global Context
+ENSC 390,Sustainability
+GEOE 221,Geological Engineering Field Methods
+GEOE 232,Mineralogy
+GEOE 249,Geophysical Characterization of the Earth
+GEOE 319,Applied Geophysics
+GEOE 333,Terrain Evaluation
+GEOE 343,Applied Hydrogeology
+GEOE 365,Geochemical Characterization of the Earth
+GEOE 463,Methods of Geological Data Analysis
+GEOE 475,Exploration and Environmental Geochemistry
+GEOE 481,Structural Analysis Applied to Resource Deposits
+GPHY 242,Remote Sensing I: Image Interpretation and Measurement
+GPHY 243,Geographic Information Science
+GPHY 304,Arctic and Periglacial Environments
+GPHY 312,Watershed Hydrology
+GPHY 342,Remote Sensing II: Digital Image Processing
+GPHY 345,Spatial Analysis
+GPHY 346,Environmental Modeling
+GPHY 351,Aboriginal Geographies of Canada
+MECH 213,Manufacturing Methods
+MECH 270,Materials Science and Engineering
+MECH 323,Machine Design
+MECH 370,Principles of Materials Processing
+MECH 435,Internal Combustion Engines
+MECH 456,Introduction to Robotics
+MECH 458,Machine Condition Monitoring and Fault Diagnostics
+MECH 465,Computer-Aided Design
+MECH 495,Ergonomics and Design
+CHEE 310,Fundamentals of Engineering Innovation and Entrepreneurship
+CHEE 323,Industrial Catalysis
+CHEE 330,Heat and Mass Transfer
+CHEE 342,Environmental Biotechnology
+CHEE 370,Waste Treatment Processes
+CHEE 380,Biochemical Engineering
+CHEE 412,Transport Phenomena in Chemical Engineering
+CHEE 418,Strategies for Process Investigations
+CHEE 434,Process Control II
+CHEE 460,Applied Surface and Colloid Science
+CHEE 461,Electrochemical Engineering
+CHEE 481,Air Quality Management
+CHEE 484,Bioremediation
+COMM 200,Introduction to Business
+COMM 211,Introduction to Financial Accounting
+COMM 212,Introduction to Management Accounting
+COMM 221,Introduction to Finance
+COMM 231,Introduction to Marketing
+COMM 251,Organizational Behaviour
+COMM 305,Introduction to Entrepreneurship
+COMM 310,Environmental Accounting
+COMM 311,"Financial Accounting Practices, Principles and Concepts"
+COMM 322,Financial Management: Strategy
+COMM 323,Corporate Financial Planning
+COMM 324,Investment and Portfolio Management
+COMM 325,Financial Modelling
+COMM 328,International Finance
+COMM 351,Leadership
+COMM 353,Managing Across Cultures
+COMM 357,Interpersonal Skills for Managers
+COMM 359,Power and Organizational Politics
+COMM 375,International Business
+COMM 381,Business Law I
+COMM 382,Business Law II
+COMM 408,Sustainability Strategies and Practices
+COMM 409,"Sustainability Measurement, Implementation and Evaluation"
+COMM 495,Project Management
+CIVL 215,Materials for Civil Engineers
+CIVL 340,Geotechnical Engineering I
+CIVL 341,Geotechnical Engineering II
+CIVL 371,Groundwater Engineering
+CIVL 471,Subsurface Contamination
+ECON 110,Principles of Economics
+ECON 111,Introductory Microeconomics
+ECON 112,Introductory Macroeconomics
+MECH 230,Thermodynamics I��
+MINE 267,Applied Chemistry for Mining
+MINE 268,Analytical Methods in Mining
+MTHE 367,Engineering Data Analysis
+MINE 339,Mine Ventilation
+MINE 330,�Mineral Industry Economics
+MINE 467,Geostatistics and Orebody Modelling ������������
+MINE 469,Stability Analysis in Mine Design��
+MINE 445,Open Pit Mine Design
+MINE 448,Underground Design
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+CIVL 230,Introduction�to Solid Mechanics�
+MINE 201,Introduction to Mining and Mineral Processing
+MINE 202,Computer Applications and Instrumentation in Mining
+MTHE 225,Ordinary Differential Equations
+APSC 221,Economics and Business Practices in Engineering
+ELEC 210,Introductory Electric Circuits and Machines
+MINE 244,Underground Mining
+MTHE 272,Application of Numerical Methods
+MINE 321,Drilling and Blasting
+MINE 331,Methods of Mineral Separation
+MINE 341,Open Pit Mining
+GEOE 262,Geological Aspects of Mineral Deposits
+MINE 324,Hydraulics for Mining Applications
+MINE 325,Applied Rock Mechanics
+MINE 326,Operations Research
+MINE 422,Mining and Sustainability
+MINE 459,"Reliability, Maintenance, and Risk Assessment"
+MINE 462,Occupational Health and Safety in Mining Practice
+MINE 434,Project Report��
+ECON 239,Economic Development
+ECON 240,Canadian Tax Policy
+ECON 261,Canadian Labour Relations
+ECON 290,Environmental Economics and Assessment
+ELEC 221,Electric Circuits
+ELEC 252,Electronics I
+ELEC 270,Discrete Mathematics with Computer Engineering Applications
+ELEC 271,Digital Systems
+ELEC 274,Computer Architecture
+ELEC 278,Fundamentals of Information Structures
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 333,Electric Machines
+ELEC 431,Power Electronics
+ENSC 201,Environmental Toxicology and Chemical Risks
+ENSC 301,Environmental Assessment
+ENSC 305,Social Environments
+ENSC 321,Environmental Justice in Global Context
+ENSC 390,Sustainability
+GEOE 221,Geological Engineering Field Methods
+GEOE 232,Mineralogy
+GEOE 249,Geophysical Characterization of the Earth
+GEOE 319,Applied Geophysics
+GEOE 333,Terrain Evaluation
+GEOE 343,Applied Hydrogeology
+GEOE 365,Geochemical Characterization of the Earth
+GEOE 463,Methods of Geological Data Analysis
+GEOE 475,Exploration and Environmental Geochemistry
+GEOE 481,Structural Analysis Applied to Resource Deposits
+GPHY 242,Remote Sensing I: Image Interpretation and Measurement
+GPHY 243,Geographic Information Science
+GPHY 304,Arctic and Periglacial Environments
+GPHY 312,Watershed Hydrology
+GPHY 342,Remote Sensing II: Digital Image Processing
+GPHY 345,Spatial Analysis
+GPHY 346,Environmental Modeling
+GPHY 351,Aboriginal Geographies of Canada
+MECH 213,Manufacturing Methods
+MECH 270,Materials Science and Engineering
+MECH 323,Machine Design
+MECH 370,Principles of Materials Processing
+MECH 435,Internal Combustion Engines
+MECH 456,Introduction to Robotics
+MECH 458,Machine Condition Monitoring and Fault Diagnostics
+MECH 465,Computer-Aided Design
+MECH 495,Ergonomics and Design
+CHEE 310,Fundamentals of Engineering Innovation and Entrepreneurship
+CHEE 323,Industrial Catalysis
+CHEE 330,Heat and Mass Transfer
+CHEE 342,Environmental Biotechnology
+CHEE 370,Waste Treatment Processes
+CHEE 380,Biochemical Engineering
+CHEE 412,Transport Phenomena in Chemical Engineering
+CHEE 418,Strategies for Process Investigations
+CHEE 434,Process Control II
+CHEE 460,Applied Surface and Colloid Science
+CHEE 461,Electrochemical Engineering
+CHEE 481,Air Quality Management
+CHEE 484,Bioremediation
+COMM 200,Introduction to Business
+COMM 211,Introduction to Financial Accounting
+COMM 212,Introduction to Management Accounting
+COMM 221,Introduction to Finance
+COMM 231,Introduction to Marketing
+COMM 251,Organizational Behaviour
+COMM 305,Introduction to Entrepreneurship
+COMM 310,Environmental Accounting
+COMM 311,"Financial Accounting Practices, Principles and Concepts"
+COMM 322,Financial Management: Strategy
+COMM 323,Corporate Financial Planning
+COMM 324,Investment and Portfolio Management
+COMM 325,Financial Modelling
+COMM 328,International Finance
+COMM 351,Leadership
+COMM 353,Managing Across Cultures
+COMM 357,Interpersonal Skills for Managers
+COMM 359,Power and Organizational Politics
+COMM 375,International Business
+COMM 381,Business Law I
+COMM 382,Business Law II
+COMM 408,Sustainability Strategies and Practices
+COMM 409,"Sustainability Measurement, Implementation and Evaluation"
+COMM 495,Project Management
+CIVL 215,Materials for Civil Engineers
+CIVL 340,Geotechnical Engineering I
+CIVL 341,Geotechnical Engineering II
+CIVL 371,Groundwater Engineering
+CIVL 471,Subsurface Contamination
+ECON 110,Principles of Economics
+ECON 111,Introductory Microeconomics
+ECON 112,Introductory Macroeconomics
+CHEE 209,Analysis of Process Data
+CHEE 210,Thermodynamic Properties of Fluids
+MINE 267,Applied Chemistry for Mining
+MINE 268,Analytical Methods in Mining
+CHEE 321��,Chemical Reaction Engineering��
+CHEE 319,Process Dynamics and Control
+MINE 330,�Mineral Industry Economics
+MINE 451,Chemical Extraction of Metals�
+MINE 455,"Design, Analysis and Operation of Mineral Processes"
+MINE 458,Process Investigation�
+APSC 200,Engineering Design and Practice II
+APSC 293,Engineering Communications
+CIVL 230,Introduction�to Solid Mechanics�
+MINE 201,Introduction to Mining and Mineral Processing
+MINE 202,Computer Applications and Instrumentation in Mining
+MTHE 225,Ordinary Differential Equations
+APSC 221,Economics and Business Practices in Engineering
+ELEC 210,Introductory Electric Circuits and Machines
+MINE 244,Underground Mining
+MTHE 272,Application of Numerical Methods
+MINE 321,Drilling and Blasting
+MINE 331,Methods of Mineral Separation
+MINE 341,Open Pit Mining
+GEOE 262,Geological Aspects of Mineral Deposits
+MINE 324,Hydraulics for Mining Applications
+MINE 325,Applied Rock Mechanics
+MINE 326,Operations Research
+MINE 422,Mining and Sustainability
+MINE 459,"Reliability, Maintenance, and Risk Assessment"
+MINE 462,Occupational Health and Safety in Mining Practice
+MINE 434,Project Report��
+ECON 239,Economic Development
+ECON 240,Canadian Tax Policy
+ECON 261,Canadian Labour Relations
+ECON 290,Environmental Economics and Assessment
+ELEC 221,Electric Circuits
+ELEC 252,Electronics I
+ELEC 270,Discrete Mathematics with Computer Engineering Applications
+ELEC 271,Digital Systems
+ELEC 274,Computer Architecture
+ELEC 278,Fundamentals of Information Structures
+ELEC 280,Fundamentals of Electromagnetics
+ELEC 333,Electric Machines
+ELEC 431,Power Electronics
+ENSC 201,Environmental Toxicology and Chemical Risks
+ENSC 301,Environmental Assessment
+ENSC 305,Social Environments
+ENSC 321,Environmental Justice in Global Context
+ENSC 390,Sustainability
+GEOE 221,Geological Engineering Field Methods
+GEOE 232,Mineralogy
+GEOE 249,Geophysical Characterization of the Earth
+GEOE 319,Applied Geophysics
+GEOE 333,Terrain Evaluation
+GEOE 343,Applied Hydrogeology
+GEOE 365,Geochemical Characterization of the Earth
+GEOE 463,Methods of Geological Data Analysis
+GEOE 475,Exploration and Environmental Geochemistry
+GEOE 481,Structural Analysis Applied to Resource Deposits
+GPHY 242,Remote Sensing I: Image Interpretation and Measurement
+GPHY 243,Geographic Information Science
+GPHY 304,Arctic and Periglacial Environments
+GPHY 312,Watershed Hydrology
+GPHY 342,Remote Sensing II: Digital Image Processing
+GPHY 345,Spatial Analysis
+GPHY 346,Environmental Modeling
+GPHY 351,Aboriginal Geographies of Canada
+MECH 213,Manufacturing Methods
+MECH 270,Materials Science and Engineering
+MECH 323,Machine Design
+MECH 370,Principles of Materials Processing
+MECH 435,Internal Combustion Engines
+MECH 456,Introduction to Robotics
+MECH 458,Machine Condition Monitoring and Fault Diagnostics
+MECH 465,Computer-Aided Design
+MECH 495,Ergonomics and Design
+CHEE 310,Fundamentals of Engineering Innovation and Entrepreneurship
+CHEE 323,Industrial Catalysis
+CHEE 330,Heat and Mass Transfer
+CHEE 342,Environmental Biotechnology
+CHEE 370,Waste Treatment Processes
+CHEE 380,Biochemical Engineering
+CHEE 412,Transport Phenomena in Chemical Engineering
+CHEE 418,Strategies for Process Investigations
+CHEE 434,Process Control II
+CHEE 460,Applied Surface and Colloid Science
+CHEE 461,Electrochemical Engineering
+CHEE 481,Air Quality Management
+CHEE 484,Bioremediation
+COMM 200,Introduction to Business
+COMM 211,Introduction to Financial Accounting
+COMM 212,Introduction to Management Accounting
+COMM 221,Introduction to Finance
+COMM 231,Introduction to Marketing
+COMM 251,Organizational Behaviour
+COMM 305,Introduction to Entrepreneurship
+COMM 310,Environmental Accounting
+COMM 311,"Financial Accounting Practices, Principles and Concepts"
+COMM 322,Financial Management: Strategy
+COMM 323,Corporate Financial Planning
+COMM 324,Investment and Portfolio Management
+COMM 325,Financial Modelling
+COMM 328,International Finance
+COMM 351,Leadership
+COMM 353,Managing Across Cultures
+COMM 357,Interpersonal Skills for Managers
+COMM 359,Power and Organizational Politics
+COMM 375,International Business
+COMM 381,Business Law I
+COMM 382,Business Law II
+COMM 408,Sustainability Strategies and Practices
+COMM 409,"Sustainability Measurement, Implementation and Evaluation"
+COMM 495,Project Management
+CIVL 215,Materials for Civil Engineers
+CIVL 340,Geotechnical Engineering I
+CIVL 341,Geotechnical Engineering II
+CIVL 371,Groundwater Engineering
+CIVL 471,Subsurface Contamination
+ECON 110,Principles of Economics
+ECON 111,Introductory Microeconomics
+ECON 112,Introductory Macroeconomics
+MECH 230�,Thermodynamics I�
+MECH 228,Kinematics and Dynamics
+MTHE 367,Engineering Data Analysis
+MECH 270,Materials Science and Engineering
+MECH 328,Dynamics and Vibration
+MECH 323,Machine Design
+MECH 350,Automatic Controls
+MINE 339,Mine Ventilation
+MINE 330,Mineral Industry Economics
+MINE 471,Mine-Mechanical Design Project
